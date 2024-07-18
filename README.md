@@ -1,4 +1,4 @@
-# StackOverflow Time Series Analysis with Plotly
+# StackOverflow Time Series Segmentation
 
 ## Goal:
 This project aims to analyze StackOverflow engagement over time. The goal is to identify trending and dying topics on Stackoverflow, helping Stackoverflow business stakeholders delegate advertisement placement based on hotness of topics.
